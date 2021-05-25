@@ -7,7 +7,7 @@ require (
 	github.com/coinbase/rosetta-sdk-go v0.3.3-0.20200725175621-613a0e5f950c
 	github.com/dgraph-io/badger v1.6.1
 	github.com/ethereum/go-ethereum v1.9.15
-	github.com/fatih/color v1.9.0
+	github.com/fatih/color v1.12.0
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/cobra v1.0.0
